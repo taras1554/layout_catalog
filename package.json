@@ -2,7 +2,7 @@
   "name": "catalog-page",
   "version": "1.0.0",
   "description": "Frontend practice with catalog page",
-  "homepage": "layout_catalog",
+  "homepage": "https://taras1554.github.io/layout_catalog/",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
